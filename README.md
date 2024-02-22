@@ -1,4 +1,4 @@
-# JWT_g6
+# Json Web Tpken Grup 6
 Enunciado actividad + proyecto iniciado
 ENUNCIADO
 
