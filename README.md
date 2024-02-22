@@ -1,4 +1,4 @@
-# Json Web Tpken Grup 6
+# Json Web Token Grup 6
 Enunciado actividad + proyecto iniciado
 ENUNCIADO
 
